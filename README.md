@@ -21,3 +21,5 @@ Must have extentions
 - Ayu
 - Python
 - Debugger for Java (Kun hvis i skal arbejde med Java)
+
+[Download node.js](https://nodejs.org/en/)
