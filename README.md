@@ -1,6 +1,7 @@
 # crash-cource
 Dette er et crash cource i Git, Visual Studio Code og Markdown. 
 
+Kramer kan push til master
 
 ### Git
 Git er et gratis og open source distribueret versionsstyringssystem designet til at håndtere alt fra små til meget store projekter med hurtighed og effektivitet.
